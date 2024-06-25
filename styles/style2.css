@@ -1,0 +1,105 @@
+@import "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap";
+body {
+  background: #161616;
+  color: #d2e6e4;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+}
+
+/* The Anchor Link Styling  */
+.nav-item a {
+  text-decoration: none;
+  font-size: x-large;
+  color: white;
+}
+.we-guide-section {
+  background-image: url("https://hashinclude.info/carrer-page-bg.f90597aae995a987.svg");
+  padding: 7% 0;
+  background-repeat: no-repeat;
+}
+.underline {
+  display: inline-block;
+  justify-content: center;
+  height: 3px;
+  width: 64px;
+  background: #e3c75c;
+  margin-left: 47%;
+}
+
+h2 {
+  font-size: 50px;
+}
+.answer-reaction-block {
+  background: #000;
+  width: 93%;
+}
+.name-icon {
+  background: #d2e6e4;
+  align-self: baseline;
+  color: #000;
+  padding: 10px 11px;
+  border-radius: 50px;
+  margin-top: 9px;
+}
+.question {
+  font-size: large;
+}
+.answer {
+  border-left: 3px solid #3caa56;
+}
+.questions-section {
+  background: #121212;
+}
+
+/* The Footer Section starts here  */
+.footer-section {
+  background-image: url("https://hashinclude.info/footer-bg.cc00989cacc2122a.svg");
+  background-repeat: no-repeat;
+}
+
+.contact-info {
+  color: #0b7077;
+  font-size: medium;
+  font-weight: 400;
+}
+
+.ask-us-section {
+  background: #212121;
+}
+.text-danger {
+  color: rgba(220, 53, 69, 1);
+}
+.form-control {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+  padding-left: 0;
+}
+
+.form-select {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+  padding-left: 0;
+}
+/* Applying Tetx-Decoration to Links  */
+.mail-section a {
+  text-decoration: none;
+  color: #0b7077;
+  font-weight: 400;
+}
+.call-section a {
+  text-decoration: none;
+  color: #0b7077;
+}
+.courses-links a {
+  text-decoration: none;
+  color: #212121;
+  font-size: medium;
+  font-weight: 400;
+}
+/* The Footer Section Endss here  */

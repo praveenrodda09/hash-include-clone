@@ -1,0 +1,104 @@
+@import "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap";
+body {
+  background: #161616;
+  color: #d2e6e4;
+  font-family: "Raleway", sans-serif;
+}
+
+.nav-item a {
+  text-decoration: none;
+  font-size: x-large;
+  color: white;
+}
+
+.enroll-btn button {
+  padding: 5px 15px;
+  background: black;
+  border: 2px solid #f8da64;
+  color: #f8da64;
+}
+.enroll-btn button:hover {
+  background-color: #f8da64;
+  color: black;
+  border: 2px solid #f8da64;
+}
+
+.front-end-section {
+  background: #212121;
+}
+.title {
+  font-weight: bold;
+}
+.course-contnent-text {
+  font-weight: 300;
+}
+.front-end-title {
+  font-weight: 300;
+}
+.course-card-info {
+  background: #3442d9;
+  border: 0.5px solid #fff;
+  width: 350px;
+  height: 300px;
+}
+.contnent-view {
+  font-weight: 300;
+  color: #fff;
+}
+.course-end-content {
+  font-weight: 300;
+}
+.link-container a {
+  color: #f8da63;
+  font-size: 19px;
+}
+.modal-content {
+  background: #212121;
+}
+.form-control {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+  padding-left: 0;
+}
+.form-select {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+}
+.register-btn button{
+  margin: 10px;
+  padding: 10px 150px;
+  color: #e3c75c;
+}
+
+/* The Footer Section starts here  */
+.footer-section {
+  background-image: url("https://hashinclude.info/footer-bg.cc00989cacc2122a.svg");
+  background-repeat: no-repeat;
+}
+
+.contact-info {
+  color: #0b7077;
+  font-size: medium;
+}
+
+/* Applying Tetx-Decoration to Links  */
+.mail-section a {
+  text-decoration: none;
+  color: #0b7077;
+}
+.call-section a {
+  text-decoration: none;
+  color: #0b7077;
+}
+.courses-links a {
+  text-decoration: none;
+  font-size: medium;
+  color: #212121;
+}
+/* The Footer Section Endss here  */

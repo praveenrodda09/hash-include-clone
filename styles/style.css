@@ -1,0 +1,284 @@
+@import "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap";
+body {
+  background: #161616;
+  color: #d2e6e4;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+}
+/* The Navbar Styling Starts Here  */
+/* nav.navbar.navbar-expand-lg {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+} */
+/* The Navbar Styling Ends Here  */
+
+/* The Anchor Link Styling  */
+.nav-item a {
+  text-decoration: none;
+  font-size: x-large;
+  color: white;
+}
+.heading-section-container {
+  border: 2px solid #fff;
+  margin-top: 0;
+  border-radius: 30px;
+  border-top: 0px;
+}
+.never-stop-heading p {
+  padding: 15px 40px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 10px;
+  border-color: white;
+  color: black;
+  background-color: white;
+  font-weight: bolder;
+  font-size: larger;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 37px;
+}
+.explore-path-section div {
+  padding-right: 10px;
+}
+.explore-section-container {
+  display: flex;
+  margin: auto;
+}
+.left-element {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  width: 550px;
+}
+.right-element {
+  width: 600px;
+}
+.explore-btn a {
+  text-transform: uppercase;
+}
+.explore-section {
+  position: relative;
+}
+.explore-more {
+  position: absolute;
+  left: 50%;
+  bottom: -170px;
+  transform: translate(-50%, -14%);
+  background: #624bff;
+  border-radius: 50%;
+  padding: 30px;
+  cursor: pointer;
+}
+.courses-heading-section div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.all-programs {
+  background: #624bff;
+  color: white;
+  color: #818c96;
+  border: 1px solid #624bff;
+  border-radius: 4px;
+}
+
+.course-button {
+  color: #818c96;
+  border: 1px solid #c4c4c4;
+  border-radius: 4px;
+}
+.course-button:hover {
+  background: #624bff;
+}
+.course-deatil-info {
+  font-size: small;
+}
+.course-img {
+  position: relative;
+}
+.each-card-section {
+  position: relative;
+  width: 250px;
+  height: 430px;
+}
+.students-deatils {
+  position: absolute;
+  top: 120px;
+  z-index: 1;
+}
+.students-info {
+  font-size: medium;
+}
+
+/* Learn More Button Styling Starts Here  */
+.learn-more-btn a {
+  padding: 5px 15px;
+  background: black;
+  border: 2px solid #f8da64;
+  color: #f8da64;
+}
+.learn-more-btn a:hover {
+  background-color: #f8da64;
+  color: black;
+}
+/* Learn More Button Styling ends Here  */
+
+.why-us-content {
+  width: 279px;
+  background: #212121;
+  color: #d9d9d9;
+  text-align: center;
+  padding: 30px 55px 18px;
+  border-radius: 10px;
+  margin-bottom: 23px;
+  width: 280px;
+  font-size: larger;
+  height: 180px;
+}
+
+.why-we-stand-out-container {
+  background: #212121;
+}
+.why-we-text {
+  font-size: medium;
+  text-align: center;
+  color: white;
+}
+.why-section-info {
+  border: 2px solid white;
+  background: #212121;
+  width: 270px;
+  border: 1px solid #fff;
+}
+.training-section p {
+  display: inline;
+  padding: 5px 20px;
+  color: #0b7077;
+  background: #d4e1ff;
+  border-radius: 10px;
+  text-align: center;
+}
+.why-we-heading P {
+  font-size: larger;
+}
+.crafting-carrers-container {
+  background: #212121;
+}
+.learn-more-btn1 a {
+  padding: 5px 30px;
+  background: black;
+  border: 2px solid #f8da64;
+  color: #f8da64;
+}
+.learn-more-btn1 a:hover {
+  background-color: #f8da64;
+  color: black;
+}
+
+span {
+  color: #f8da64;
+}
+
+.testinomial-section {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  background: linear-gradient(
+    143deg,
+    rgba(32, 32, 32, 1) 45%,
+    rgb(49 40 108) 100%
+  );
+  width: 365px;
+  height: 304px;
+}
+
+.offer-section-view {
+  background: url("https://hashinclude.info/time-bg.50c998895fad7be4.svg")
+    #624bff;
+  background-repeat: no-repeat;
+  background-position: 126px 127px;
+  border-radius: 15px;
+  width: 1100px;
+  margin: 20px 80px;
+}
+.offer-expire {
+  font-size: xx-large;
+}
+.offer-time {
+  font-size: 50px;
+}
+.modal-content {
+  background: #212121;
+}
+
+.form-control {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+  padding-left: 0;
+}
+.form-select {
+  background: #212121;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+}
+.register-btn button{
+  margin: 10px;
+  padding: 10px 150px;
+  color: #e3c75c;
+}
+/* The Footer Section starts here  */
+.footer-section {
+  background-image: url("https://hashinclude.info/footer-bg.cc00989cacc2122a.svg");
+  background-repeat: no-repeat;
+}
+
+.contact-info {
+  color: #0b7077;
+  font-size: medium;
+  font-weight: 400;
+}
+
+/* Applying Tetx-Decoration to Links  */
+.mail-section a {
+  text-decoration: none;
+  color: #0b7077;
+}
+.call-section a {
+  text-decoration: none;
+  color: #0b7077;
+
+}
+.courses-links a {
+  text-decoration: none;
+ 
+  font-size: medium;
+  color: #212121;
+  font-weight: 400;
+}
+.underline {
+  display: inline-block;
+  justify-content: center;
+  height: 3px;
+  width: 47px;
+  background: #e3c75c;
+  vertical-align: middle;
+}
+/* The Footer Section Endss here  */
+.team-text{
+  font-weight: bolder;
+}
+
+.time-text {
+  font-weight: bolder;
+}

@@ -1,0 +1,90 @@
+@import "https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap";
+body {
+  background: #161616;
+  color: #d2e6e4;
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+}
+
+.nav-item a {
+  text-decoration: none;
+  font-size: x-large;
+  color: white;
+}
+.crafting-carrers-container {
+  background: #212121;
+}
+.learn-more-btn1 a {
+  padding: 5px 30px;
+  background: black;
+  border: 2px solid #f8da64;
+  color: #f8da64;
+}
+.learn-more-btn1 a:hover {
+  background-color: #f8da64;
+  color: black;
+}
+span {
+  color: #f8da64;
+}
+.hr-line {
+  height: 1px;
+  display: block;
+  background: #fff;
+  width: 76%;
+  margin: auto;
+}
+
+.team-member-image{
+    position: relative;
+}
+.member-info{
+    position: absolute;
+    top:50px;
+}
+
+h3{
+ font-size: 22px; 
+ color: #fff;
+}
+.member-prof {
+    font-size: smaller;
+
+    color: #fff;
+}
+.team-tag-line {
+    text-align: center;
+    width: 40%;
+    margin-left: 360px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    color: #d9d9d9
+}
+/* The Footer Section starts here  */
+.footer-section {
+    background-image: url("https://hashinclude.info/footer-bg.cc00989cacc2122a.svg");
+    background-repeat: no-repeat;
+  }
+  
+  .contact-info {
+    color: #0b7077;
+    font-size: medium;
+    font-weight: 400;
+  }
+  
+  /* Applying Tetx-Decoration to Links  */
+  .mail-section a {
+    text-decoration: none;
+    color: #0b7077;
+  }
+  .call-section a {
+    text-decoration: none;
+    color: #0b7077;
+  }
+  .courses-links a {
+    text-decoration: none;
+    font-size: medium;
+    color: #212121;
+    font-weight: 400;
+  }
+  /* The Footer Section Endss here  */
